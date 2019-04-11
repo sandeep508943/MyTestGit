@@ -6,7 +6,9 @@ public class TestLab {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Java world......");
-
+		
+		int 10;
+		
 	}
 
 }
