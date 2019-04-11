@@ -8,6 +8,9 @@ public class TestLab {
 		System.out.println("Hello Java world......");
 		
 		int 10;
+		int 20;
+		System.out.println(a+b);
+		
 		
 	}
 
