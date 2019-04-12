@@ -12,6 +12,10 @@ public class TestLab {
 		System.out.println(a+b);
 		
 		// sandeep kumar
+		
+		garbage value
+		
+		test
 	}
 
 }
