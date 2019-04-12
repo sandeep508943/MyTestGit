@@ -15,7 +15,7 @@ public class TestLab {
 		
 		garbage value
 		
-		test
+		test 1212122
 	}
 
 }
